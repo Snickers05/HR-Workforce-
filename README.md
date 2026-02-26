@@ -19,7 +19,7 @@ HR leadership seeks to identify the underlying drivers of employee turnover and 
 - KPI development
 - Dashboard storytelling
 
-- 🔹Key Insights
+🔹Key Insights
 
 - Overall attrition rate is ~16.12%
 - Sales department has highest attrition
